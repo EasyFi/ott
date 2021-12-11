@@ -36,12 +36,27 @@ url
 
 {
   appKey:"",
-  packageList:[]
+  packageList:[],
+  userOttDetails:{
+    mobileNo:"",
+    email:"",
+    name:""
+    
+  }
 }
 // how to check the shopify site has only given the request and not anyother person who has managed to get the appKey 
 
 rotateAppKey
 //
+
+update the provider rates -- every 12Hrs
+// there will be more than one provider
+
+
+
+
+
+
 
 
 
